@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fs.AdminCenter", "Fs.AdminCenter\Fs.AdminCenter.csproj", "{2ED0CAA4-812C-49CE-BD38-4C244726EA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fs.AdminCenter.Authentication", "Fs.AdminCenter.Authentication\Fs.AdminCenter.Authentication.csproj", "{DE370315-6558-4F7B-A263-734AED2C3083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fs.AdminCenter.Infrastructure", "Fs.AdminCenter.Infrastructure\Fs.AdminCenter.Infrastructure.csproj", "{AF7BF859-891D-4C9C-BD79-245DBCA72DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fs.AdminCenter.Dashboard", "Fs.AdminCenter.Dashboard\Fs.AdminCenter.Dashboard.csproj", "{7B9B2855-230F-4B6B-9E3F-017FA271DA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED0CAA4-812C-49CE-BD38-4C244726EA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED0CAA4-812C-49CE-BD38-4C244726EA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED0CAA4-812C-49CE-BD38-4C244726EA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED0CAA4-812C-49CE-BD38-4C244726EA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9B2855-230F-4B6B-9E3F-017FA271DA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9B2855-230F-4B6B-9E3F-017FA271DA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9B2855-230F-4B6B-9E3F-017FA271DA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9B2855-230F-4B6B-9E3F-017FA271DA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7BF859-891D-4C9C-BD79-245DBCA72DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7BF859-891D-4C9C-BD79-245DBCA72DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7BF859-891D-4C9C-BD79-245DBCA72DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7BF859-891D-4C9C-BD79-245DBCA72DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE370315-6558-4F7B-A263-734AED2C3083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE370315-6558-4F7B-A263-734AED2C3083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE370315-6558-4F7B-A263-734AED2C3083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE370315-6558-4F7B-A263-734AED2C3083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<Window x:Class="Fs.AdminCenter.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Regions="clr-namespace:Microsoft.Practices.Prism.Regions;assembly=Microsoft.Practices.Prism"
+        xmlns:Region="clr-namespace:Fs.AdminCenter.Infrastructure.Region;assembly=Fs.AdminCenter.Infrastructure"
+        Title="Fire Solution Admin Center" Height="900" Width="1200" WindowState="Maximized">
+    <Grid Background="#FF424242">
+        <ContentControl x:Name="MainRegion" Regions:RegionManager.RegionName="{x:Static Region:RegionNames.MainRegion}" />
+    </Grid>
+</Window>
