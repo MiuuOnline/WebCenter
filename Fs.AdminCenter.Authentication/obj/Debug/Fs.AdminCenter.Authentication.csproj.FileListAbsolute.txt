@@ -13,3 +13,18 @@ C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Authenticatio
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.g.resources
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.dll
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Fs.AdminCenter.Authentication.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Fs.AdminCenter.Authentication.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Fs.AdminCenter.Infrastructure.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Fs.AdminCenter.Infrastructure.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.csprojResolveAssemblyReference.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Views\Login.baml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Views\Login.g.cs
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication_MarkupCompile.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.g.resources
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Authentication\obj\Debug\Fs.AdminCenter.Authentication.pdb
