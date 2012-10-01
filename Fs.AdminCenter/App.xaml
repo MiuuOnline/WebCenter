@@ -2,6 +2,12 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <!--I have NO idea why this is needed. Without this, none of the
+                applicatiion level resources can be found! This MUST be a bug!!!-->
+            <ResourceDictionary.MergedDictionaries >
+                <ResourceDictionary Source="Assets/RessourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

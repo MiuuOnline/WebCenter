@@ -13,18 +13,16 @@ C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Dashboard\obj
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Infrastructure.dll
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Infrastructure.pdb
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Views\DashboardMainView.baml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Views\DashboardMainView.g.cs
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard_MarkupCompile.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.g.resources
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Dashboard.dll
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Dashboard.pdb
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Infrastructure.dll
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Microsoft.Practices.Prism.dll
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Fs.AdminCenter.Infrastructure.pdb
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Microsoft.Practices.Prism.xml
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.csprojResolveAssemblyReference.cache
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Views\Menu.baml
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Views\Menu.g.cs
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard_MarkupCompile.cache
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.g.resources
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.dll
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Dashboard\obj\Debug\Fs.AdminCenter.Dashboard.pdb

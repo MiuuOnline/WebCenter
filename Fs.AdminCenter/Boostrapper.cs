@@ -1,6 +1,9 @@
-﻿using System.ComponentModel.Composition.Hosting;
+﻿using System.ComponentModel.Composition;
+using System.ComponentModel.Composition.Hosting;
 using System.Windows;
 using Fs.AdminCenter.Authentication;
+using Fs.AdminCenter.Logging;
+using Microsoft.Practices.Prism.Logging;
 using Microsoft.Practices.Prism.MefExtensions;
 using Microsoft.Practices.Prism.Modularity;
 
@@ -11,6 +14,8 @@ namespace Fs.AdminCenter
     /// </summary>
     public class Boostrapper : MefBootstrapper
     {
+        private readonly CallbackLogger _callbackLogger = new CallbackLogger();
+
         /// <summary>
         /// Get the application shell
         /// </summary>
@@ -29,7 +34,6 @@ namespace Fs.AdminCenter
             base.ConfigureAggregateCatalog();
              
             this.AggregateCatalog.Catalogs.Add(new AssemblyCatalog(typeof(Boostrapper).Assembly));
-
             this.AggregateCatalog.Catalogs.Add(new AssemblyCatalog(typeof(AuthenticationModule).Assembly));
         }
 
@@ -56,6 +60,8 @@ namespace Fs.AdminCenter
         protected override void ConfigureContainer()
         {
             base.ConfigureContainer();
+
+            this.Container.ComposeExportedValue<CallbackLogger>(this._callbackLogger);
         }
 
         /// <summary>
@@ -78,6 +84,23 @@ namespace Fs.AdminCenter
 
             Application.Current.MainWindow = (Shell)Shell;
             Application.Current.MainWindow.Show();
+        }
+
+        /// <summary>
+        /// Create the <see cref="ILoggerFacade"/> used by the bootstrapper.
+        /// </summary>
+        /// <remarks>
+        /// The base implementation returns a new TextLogger.
+        /// </remarks>
+        /// <returns>
+        /// A CallbackLogger.
+        /// </returns>
+        protected override ILoggerFacade CreateLogger()
+        {
+            // Because the Shell is displayed after most of the interesting boostrapper work has been performed,
+            // this quickstart uses a special logger class to hold on to early log entries and display them 
+            // after the UI is visible.
+            return this._callbackLogger;
         }
     }
 }

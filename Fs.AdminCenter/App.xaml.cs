@@ -25,7 +25,6 @@ namespace Fs.AdminCenter
             }
             catch (Exception)
             {
-               
                 throw;
             }
         }

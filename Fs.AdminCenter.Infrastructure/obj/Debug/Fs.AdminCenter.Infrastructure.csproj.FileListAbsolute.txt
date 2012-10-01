@@ -4,3 +4,9 @@ C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Infrastructur
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Infrastructure\bin\Debug\Microsoft.Practices.Prism.xml
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Infrastructure\obj\Debug\Fs.AdminCenter.Infrastructure.dll
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter.Infrastructure\obj\Debug\Fs.AdminCenter.Infrastructure.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\bin\Debug\Fs.AdminCenter.Infrastructure.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\bin\Debug\Fs.AdminCenter.Infrastructure.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\obj\Debug\Fs.AdminCenter.Infrastructure.dll
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter.Infrastructure\obj\Debug\Fs.AdminCenter.Infrastructure.pdb

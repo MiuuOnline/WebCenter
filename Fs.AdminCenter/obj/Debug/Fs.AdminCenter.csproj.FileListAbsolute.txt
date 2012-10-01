@@ -27,9 +27,17 @@ C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter\obj\Debug\Fs.
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.csproj.GenerateResource.Cache
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.exe
 C:\Users\Miuu\Desktop\Fire Solution v2\FireSolution\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.pdb
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.csprojResolveAssemblyReference.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Assets\RessourceDictionary.baml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Shell.baml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\App.baml
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Shell.g.cs
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\App.g.cs
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter_MarkupCompile.cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.g.resources
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.Properties.Resources.resources
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.csproj.GenerateResource.Cache
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Fs.AdminCenter.exe.config
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.exe
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.pdb
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Fs.AdminCenter.exe
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Fs.AdminCenter.pdb
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Fs.AdminCenter.Authentication.dll
@@ -47,11 +55,5 @@ C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Microsoft.Prac
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.csprojResolveAssemblyReference.cache
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Shell.baml
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Shell.g.cs
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\App.g.cs
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter_MarkupCompile.cache
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.g.resources
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.Properties.Resources.resources
-C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.csproj.GenerateResource.Cache
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.exe
+C:\Users\Miuu\Documents\GitHub\WebCenter\Fs.AdminCenter\obj\Debug\Fs.AdminCenter.pdb
